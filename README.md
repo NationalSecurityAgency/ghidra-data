@@ -9,5 +9,5 @@ This is a human-curated repository, and we include only a select portion of it i
 If you are building your own copy of Ghidra, you may incorporate whichever portions of this repo you'd like by copying files into the appropriate directories in the source tree at build time.
 If you are a Ghidra user, you may add whichever portions of this repo you'd like by copying files into the appropriate directories in your installation.
 
-[repository]: github.com/NationalSecurityAgency/ghidra
+[repository]: https://github.com/NationalSecurityAgency/ghidra
 
