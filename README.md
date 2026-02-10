@@ -1,5 +1,7 @@
 # Ghidra Data
 
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NationalSecurityAgency/ghidra-data)
+
 This is a companion repository to the Ghidra source code [repository].
 As such, it is governed by the same licensing and contribution guidelines as Ghidra.
 This repository is meant to be used by Ghidra users and developers alike, as a place to put data sets that improve Ghidra.
